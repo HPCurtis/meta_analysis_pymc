@@ -1,4 +1,4 @@
-# Basic meta analysis in pymc
+# Basic meta analysis in PyMC
 
 # File structure
 
