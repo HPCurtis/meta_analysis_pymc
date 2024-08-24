@@ -1,13 +1,15 @@
 # Basic meta analysis in PyMC
+The following code is a Bayesian hierachial model meta-analsysis implemented within python and the PyMC PPL framework. The purpose of this excample is to convert an example from a great applied meta-analysis resource and exmaple produced within the brms framework by [Harrer et al. 2021](https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/bayesian-ma.html) to provide a rigourous meta-analysis example of meta-analsysis implmented in PyMC of which there are few examples 
+
 
 # File structure
 
 - README.md
   - The file you are reading. 
-- meta_analysis.ipynb
+- [meta_analysis.ipynb](meta_analysis.ipynb)
   - ipython notebook for the meta analysis example.
 - Stan
-  - brms_model.stan: Stan file generated from the equivalent model produced using brms 2.21.0.
+  - [brms_model.stan](stan/brms_model.stan): Stan file generated from the equivalent model produced using brms 2.21.0.
 - data
   - ThirdWave.rda: .rda file for the analysis.
 
