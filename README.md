@@ -1,5 +1,5 @@
 # Basic meta analysis in PyMC
-The following code is a Bayesian hierarchical model meta-analysis implemented in Python using the PyMC probabilistic programming framework. The purpose of this example is to convert an example from a great applied meta-analysis resource and example produced within the brms framework by [Harrer et al. 2021](https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/bayesian-ma.html) to provide a rigorous meta-analysis example of meta-analysis implemented in PyMC, of which there are few examples. Ultimately, the aim is to expand again to more complicated examples for PyMC users.
+The following code is a Bayesian hierarchical model meta-analysis implemented in Python using the PyMC probabilistic programming framework. The purpose of this example is to convert an example from a great applied meta-analysis resource and example produced within the brms framework by [Harrer et al. 2021](https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/bayesian-ma.html) to provide a rigorous meta-analysis example implemented in PyMC, of which there are few examples.
 
 
 # File structure
